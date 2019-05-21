@@ -1,0 +1,7 @@
+C:\Users\Yeison\source\repos\Appweb\Appweb\bin\Debug\Appweb.exe.config
+C:\Users\Yeison\source\repos\Appweb\Appweb\bin\Debug\Appweb.exe
+C:\Users\Yeison\source\repos\Appweb\Appweb\bin\Debug\Appweb.pdb
+C:\Users\Yeison\source\repos\Appweb\Appweb\obj\Debug\Appweb.csprojAssemblyReference.cache
+C:\Users\Yeison\source\repos\Appweb\Appweb\obj\Debug\Appweb.csproj.CoreCompileInputs.cache
+C:\Users\Yeison\source\repos\Appweb\Appweb\obj\Debug\Appweb.exe
+C:\Users\Yeison\source\repos\Appweb\Appweb\obj\Debug\Appweb.pdb
